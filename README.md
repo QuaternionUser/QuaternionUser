@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @QuaternionUser
 - 👀 I’m interested in science and maths
 - 🌱 I’m currently learning how to code Godot shaders
-- 💞️ I’m looking to collaborate on not muh right now
+- 💞️ I’m looking to collaborate on not much right now
 - 📫 How to reach me n/a
-- 😄 Pronouns: he/him
+- 😄 Pronouns: 
 - ⚡ Fun fact: Very busy
 
 <!---
